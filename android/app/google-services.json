@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919297564380",
+    "project_id": "spacenews1-44ed3",
+    "storage_bucket": "spacenews1-44ed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919297564380:android:d6b37bd29502201c429e19",
+        "android_client_info": {
+          "package_name": "com.example.spacenews1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919297564380-hakkjuiu8ni9n3qm87bshumeum337803.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLeP5dtGFhL_2XAVZYTF2K30ksoX0NWyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919297564380-hakkjuiu8ni9n3qm87bshumeum337803.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
